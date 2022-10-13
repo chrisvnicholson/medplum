@@ -6,7 +6,7 @@ This section is under construction.  Check back frequently for updates.
 
 :::
 
-Medplum supports a wide array of use cases.  Please look at this section for detailed examples of how to build sophisticated, compliant applications quickly.  Though these are written as separate use cases, it is possible, indeed recommended, to have multiple of these implementations running off of the same Medplum Project.
+Medplum supports a wide array of use cases.  Please consult this section for detailed examples of how to build sophisticated, compliant applications quickly.  Though these are written as separate use cases, it is possible, indeed recommended, to have several of these implementations running off the same Medplum Project.
 
 ## Telehealth Patient Portal
 
